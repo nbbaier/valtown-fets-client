@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "fets": "^0.4.9",
+    "valtown-api-types": "github:nbbaier/valtown-api-types",
     "yaml": "^2.3.1"
   },
   "devDependencies": {
