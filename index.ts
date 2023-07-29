@@ -1,5 +1,5 @@
 import { NormalizeOAS, createClient } from "fets";
-import { api } from "./api";
+import { api } from "valtown-api-types";
 
 const token = "<YOUR TOKEN>";
 
